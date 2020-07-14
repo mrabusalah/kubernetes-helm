@@ -80,8 +80,14 @@ now we wanna deploy this helm file ,
 
 
 ```- microk8s.status```
+
+
 ```- microk8s.start```
+
+
 ```- microk8s.config```
+
+
 ```- microk8s.config > ~/.kube/config```
 
 
