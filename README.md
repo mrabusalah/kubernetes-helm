@@ -96,6 +96,12 @@ now we wanna deploy this helm file ,
 
 ```- kubectl get node```
 
+**to install helm after creat it **
+
+
+```- helm install [name] [helm_folder_name]```
+
+
 
 **we should see the node and the STATUS of it is Ready
 now if we run the apply command it should works fine**
